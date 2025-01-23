@@ -1,6 +1,6 @@
 # Logbook
 
-23.01.2025, 3h, Kick-off lecture, Assignment
+23.01.2025, 3h, 1st and 2nd lecture, Assignment
 
 | Date  | Used hours | Subject(s) |  output |
 | :---         |     :---:      |     :---:      |     :---:      |
