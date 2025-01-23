@@ -4,7 +4,7 @@
 
 | Date  | Used hours | Subject(s) |  output |
 | :---         |     :---:      |     :---:      |     :---:      |
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |
-| 31.10.2024 | 2 | Kick-off lecture  | Lecture recording  |
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |
-| 30.10.2024 | 2 | Kick-off lecture  | Lecture recording  |
+| 17.01.2025 | 5 | Kick-off lecture  | Lecture recording  |
+| 23.01.2025 | 8 | Kick-off lecture  | Lecture recording  |
+| 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
+| 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
